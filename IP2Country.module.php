@@ -42,7 +42,7 @@ class IP2Country extends CMSModule
     {
         return array(
             'CMSForms' => '1.10.18',
-            'MCFramework' => '0.0.1'
+            'MCFramework' => '0.0.2'
         );
     }
 
